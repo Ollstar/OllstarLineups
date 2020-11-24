@@ -1,0 +1,597 @@
+,namePlayer,nameTeam
+1,Brandon Goodwin,Atlanta Hawks
+2,Evan Turner,Atlanta Hawks
+3,Armoni Brooks,Atlanta Hawks
+4,Kevin Huerter,Atlanta Hawks
+5,Charles Brown,Atlanta Hawks
+6,Jabari Parker,Atlanta Hawks
+7,Tahjere McCall,Atlanta Hawks
+8,Jordan Sibert,Atlanta Hawks
+9,Trae Young,Atlanta Hawks
+10,De'Andre Hunter,Atlanta Hawks
+11,Vince Carter,Atlanta Hawks
+12,John Collins,Atlanta Hawks
+13,Cameron Reddish,Atlanta Hawks
+14,Bruno Fernando,Atlanta Hawks
+15,Alex Len,Atlanta Hawks
+16,Damian Jones,Atlanta Hawks
+17,Chandler Parsons,Atlanta Hawks
+18,Marcus Derrickson,Atlanta Hawks
+19,Allen Crabbe,Atlanta Hawks
+20,DeAndre' Bembry,Atlanta Hawks
+21,Jayson Tatum,Boston Celtics
+22,Carsen Edwards,Boston Celtics
+23,Jaylen Brown,Boston Celtics
+24,Kemba Walker,Boston Celtics
+25,Brad Wanamaker,Boston Celtics
+26,Enes Kanter,Boston Celtics
+27,Grant Williams,Boston Celtics
+28,Gordon Hayward,Boston Celtics
+29,Yante Maten,Boston Celtics
+30,Daniel Theis,Boston Celtics
+31,Max Strus,Boston Celtics
+32,Kaiser Gates,Boston Celtics
+33,Marcus Smart,Boston Celtics
+34,Semi Ojeleye,Boston Celtics
+35,Javonte Green,Boston Celtics
+36,Robert Williams,Boston Celtics
+37,Romeo Langford,Boston Celtics
+38,Tremont Waters,Boston Celtics
+39,Vincent Poirier,Boston Celtics
+40,Tacko Fall,Boston Celtics
+41,Rodions Kurucs,Brooklyn Nets
+42,David Nwaba,Brooklyn Nets
+43,Theo Pinson,Brooklyn Nets
+44,Taurean Prince,Brooklyn Nets
+45,Henry Ellenson,Brooklyn Nets
+46,DeAndre Jordan,Brooklyn Nets
+47,Kevin Durant,Brooklyn Nets
+48,Spencer Dinwiddie,Brooklyn Nets
+49,C.J. Williams,Brooklyn Nets
+50,Deng Adel,Brooklyn Nets
+51,Kyrie Irving,Brooklyn Nets
+52,Joe Harris,Brooklyn Nets
+53,Dzanan Musa,Brooklyn Nets
+54,John Egbunu,Brooklyn Nets
+55,Garrett Temple,Brooklyn Nets
+56,Wilson Chandler,Brooklyn Nets
+57,Caris LeVert,Brooklyn Nets
+58,Jarrett Allen,Brooklyn Nets
+59,Nicolas Claxton,Brooklyn Nets
+60,Lance Thomas,Brooklyn Nets
+61,Miles Bridges,Charlotte Hornets
+62,Malik Monk,Charlotte Hornets
+63,Marvin Williams,Milwaukee Bucks
+64,Terry Rozier,Charlotte Hornets
+65,Devonte' Graham,Charlotte Hornets
+66,Nicolas Batum,Charlotte Hornets
+67,Jalen McDaniels,Charlotte Hornets
+68,Dwayne Bacon,Charlotte Hornets
+69,Bismack Biyombo,Charlotte Hornets
+70,Willy Hernangomez,Charlotte Hornets
+71,Caleb Martin,Charlotte Hornets
+72,Cody Martin,Charlotte Hornets
+73,Michael Kidd-Gilchrist,Charlotte Hornets
+74,Ahmed Hill,Charlotte Hornets
+75,Robert Franks,Charlotte Hornets
+76,Kobi Simmons,Charlotte Hornets
+77,P.J. Washington,Charlotte Hornets
+78,Cody Zeller,Charlotte Hornets
+79,Thomas Welsh,Charlotte Hornets
+80,Coby White,Chicago Bulls
+81,Luke Kornet,Chicago Bulls
+82,Shaquille Harrison,Chicago Bulls
+83,Justin Simon,Chicago Bulls
+84,Cristiano Felicio,Chicago Bulls
+85,Zach LaVine,Chicago Bulls
+86,Milton Doyle,Chicago Bulls
+87,Perrion Callandret,Chicago Bulls
+88,Daniel Gafford,Chicago Bulls
+89,Simisola Shittu,Chicago Bulls
+90,Chandler Hutchison,Chicago Bulls
+91,Adam Mokoka,Chicago Bulls
+92,Thaddeus Young,Chicago Bulls
+93,Otto Porter Jr.,Chicago Bulls
+94,Lauri Markkanen,Chicago Bulls
+95,Tomas Satoransky,Chicago Bulls
+96,Kris Dunn,Chicago Bulls
+97,Wendell Carter Jr.,Chicago Bulls
+98,Denzel Valentine,Chicago Bulls
+99,Ryan Arcidiacono,Chicago Bulls
+100,Kevin Love,Cleveland Cavaliers
+101,Marques Bolden,Cleveland Cavaliers
+102,Collin Sexton,Cleveland Cavaliers
+103,Sindarius Thornwell,Cleveland Cavaliers
+104,Kevin Porter Jr.,Cleveland Cavaliers
+105,Daniel Hamilton,Cleveland Cavaliers
+106,Jordan Clarkson,Cleveland Cavaliers
+107,Dylan Windler,Cleveland Cavaliers
+108,Darius Garland,Cleveland Cavaliers
+109,Tristan Thompson,Cleveland Cavaliers
+110,Timothe Luwawu-Cabarrot,Cleveland Cavaliers
+111,Cedi Osman,Cleveland Cavaliers
+112,Matthew Dellavedova,Cleveland Cavaliers
+113,Brandon Knight,Cleveland Cavaliers
+114,Larry Nance Jr.,Cleveland Cavaliers
+115,Jarell Martin,Cleveland Cavaliers
+116,John Henson,Cleveland Cavaliers
+117,Dean Wade,Cleveland Cavaliers
+118,Ante Zizic,Cleveland Cavaliers
+119,J.P. Macura,Cleveland Cavaliers
+120,Courtney Lee,Dallas Mavericks
+121,Antonius Cleveland,Dallas Mavericks
+122,J.J. Barea,Dallas Mavericks
+123,Kristaps Porzingis,Dallas Mavericks
+124,Dwight Powell,Dallas Mavericks
+125,Isaiah Roby,Dallas Mavericks
+126,Dorian Finney-Smith,Dallas Mavericks
+127,Tim Hardaway Jr.,Dallas Mavericks
+128,Jalen Brunson,Dallas Mavericks
+129,Josh Reaves,Dallas Mavericks
+130,Seth Curry,Dallas Mavericks
+131,Dakota Mathias,Dallas Mavericks
+132,Aric Holman,Dallas Mavericks
+133,Maxi Kleber,Dallas Mavericks
+134,Justin Jackson,Dallas Mavericks
+135,Ryan Broekhoff,Dallas Mavericks
+136,Boban Marjanovic,Dallas Mavericks
+137,Delon Wright,Dallas Mavericks
+138,Luka Doncic,Dallas Mavericks
+139,Michael Porter Jr.,Denver Nuggets
+140,Torrey Craig,Denver Nuggets
+141,Paul Millsap,Denver Nuggets
+142,Will Barton,Denver Nuggets
+143,Jarred Vanderbilt,Denver Nuggets
+144,Jerami Grant,Denver Nuggets
+145,Bol Bol,Denver Nuggets
+146,Monte Morris,Denver Nuggets
+147,Gary Harris,Denver Nuggets
+148,Nikola Jokic,Denver Nuggets
+149,Mason Plumlee,Denver Nuggets
+150,Malik Beasley,Denver Nuggets
+151,Jamal Murray,Denver Nuggets
+152,Vlatko Cancar,Denver Nuggets
+153,Tyler Cook,Denver Nuggets
+154,PJ Dozier,Denver Nuggets
+155,Juancho Hernangomez,Denver Nuggets
+156,Tyler Zeller,Denver Nuggets
+157,Andre Drummond,Detroit Pistons
+158,Reggie Jackson,Detroit Pistons
+159,Luke Kennard,Detroit Pistons
+160,Bruce Brown Jr.,Detroit Pistons
+161,Thon Maker,Detroit Pistons
+162,Markieff Morris,Detroit Pistons
+163,Langston Galloway,Detroit Pistons
+164,Tim Frazier,Detroit Pistons
+165,Khyri Thomas,Detroit Pistons
+166,Louis King,Detroit Pistons
+167,Tony Snell,Detroit Pistons
+168,Jordan Bone,Detroit Pistons
+169,Svi Mykhailiuk,Detroit Pistons
+170,Blake Griffin,Detroit Pistons
+171,Joe Johnson,Detroit Pistons
+172,Derrick Rose,Detroit Pistons
+173,Todd Withers,Detroit Pistons
+174,Christian Wood,Detroit Pistons
+175,Deividas Sirvydis,Detroit Pistons
+176,Sekou Doumbouya,Detroit Pistons
+177,Donta Hall,Detroit Pistons
+178,D'Angelo Russell,Golden State Warriors
+179,Damion Lee,Golden State Warriors
+180,Willie Cauley-Stein,Golden State Warriors
+181,Jordan Poole,Golden State Warriors
+182,Omari Spellman,Golden State Warriors
+183,Kevon Looney,Golden State Warriors
+184,Alen Smailagic,Golden State Warriors
+185,Eric Paschall,Golden State Warriors
+186,Alec Burks,Philadelphia 76ers
+187,Jacob Evans,Golden State Warriors
+188,Klay Thompson,Golden State Warriors
+189,Ky Bowman,Golden State Warriors
+190,Glenn Robinson III,Golden State Warriors
+191,Draymond Green,Golden State Warriors
+192,Alfonzo McKinnie,Golden State Warriors
+193,Stephen Curry,Golden State Warriors
+194,Kavion Pippen,Golden State Warriors
+195,Marquese Chriss,Golden State Warriors
+196,Andrew Harrison,Golden State Warriors
+197,Juan Toscano-Anderson,Golden State Warriors
+198,Ray Spalding,Houston Rockets
+199,Russell Westbrook,Houston Rockets
+200,Shamorie Ponds,Houston Rockets
+201,Chris Clemons,Houston Rockets
+202,Danuel House Jr.,Houston Rockets
+203,Gary Clark,Houston Rockets
+204,Jaron Blossomgame,Houston Rockets
+205,Eric Gordon,Houston Rockets
+206,James Harden,Houston Rockets
+207,Gerald Green,Houston Rockets
+208,Clint Capela,Houston Rockets
+209,Ben McLemore,Houston Rockets
+210,PJ Tucker,Houston Rockets
+211,Thabo Sefolosha,Houston Rockets
+212,Tyson Chandler,Houston Rockets
+213,Michael Frazier,Houston Rockets
+214,Austin Rivers,Houston Rockets
+215,Ryan Anderson,Houston Rockets
+216,Nene,Houston Rockets
+217,Isaiah Hartenstein,Houston Rockets
+218,T.J. Warren,Indiana Pacers
+219,Aaron Holiday,Indiana Pacers
+220,Victor Oladipo,Indiana Pacers
+221,Edmond Sumner,Indiana Pacers
+222,Malcolm Brogdon,Indiana Pacers
+223,Justin Holiday,Indiana Pacers
+224,T.J. McConnell,Indiana Pacers
+225,Brian Bowen II,Indiana Pacers
+226,Domantas Sabonis,Indiana Pacers
+227,JaKarr Sampson,Indiana Pacers
+228,Naz Mitrou-Long,Indiana Pacers
+229,CJ Wilcox,Indiana Pacers
+230,Doug McDermott,Indiana Pacers
+231,TJ Leaf,Indiana Pacers
+232,Alize Johnson,Indiana Pacers
+233,Walter Lemon Jr.,Indiana Pacers
+234,Jeremy Lamb,Indiana Pacers
+235,Myles Turner,Indiana Pacers
+236,Amida Brimah,Indiana Pacers
+237,Goga Bitadze,Indiana Pacers
+238,Mathias Lessort,Los Angeles Clippers
+239,Donte Grantham,Los Angeles Clippers
+240,Jerome Robinson,Los Angeles Clippers
+241,Kawhi Leonard,Los Angeles Clippers
+242,JaMychal Green,Los Angeles Clippers
+243,Montrezl Harrell,Los Angeles Clippers
+244,Amir Coffey,Los Angeles Clippers
+245,Maurice Harkless,Los Angeles Clippers
+246,Derrick Walton Jr.,Los Angeles Clippers
+247,Terry Larrier,Los Angeles Clippers
+248,James Palmer Jr.,Los Angeles Clippers
+249,Paul George,Los Angeles Clippers
+250,Terance Mann,Los Angeles Clippers
+251,Johnathan Motley,Los Angeles Clippers
+252,Rodney McGruder,Los Angeles Clippers
+253,Landry Shamet,Los Angeles Clippers
+254,Patrick Beverley,Los Angeles Clippers
+255,Lou Williams,Los Angeles Clippers
+256,Mfiondu Kabengele,Los Angeles Clippers
+257,Ivica Zubac,Los Angeles Clippers
+258,Patrick Patterson,Los Angeles Clippers
+259,Kyle Kuzma,Los Angeles Lakers
+260,Kentavious Caldwell-Pope,Los Angeles Lakers
+261,Quinn Cook,Los Angeles Lakers
+262,Anthony Davis,Los Angeles Lakers
+263,Alex Caruso,Los Angeles Lakers
+264,Talen Horton-Tucker,Los Angeles Lakers
+265,JaVale McGee,Los Angeles Lakers
+266,Rajon Rondo,Los Angeles Lakers
+267,Jared Dudley,Los Angeles Lakers
+268,Avery Bradley,Los Angeles Lakers
+269,Devontae Cacok,Los Angeles Lakers
+270,Danny Green,Los Angeles Lakers
+271,DeMarcus Cousins,Los Angeles Lakers
+272,David Stockton,Los Angeles Lakers
+273,Demetrius Jackson,Los Angeles Lakers
+274,Zach Norvell Jr.,Los Angeles Lakers
+275,LeBron James,Los Angeles Lakers
+276,Troy Daniels,Los Angeles Lakers
+277,Kostas Antetokounmpo,Los Angeles Lakers
+278,Dwight Howard,Los Angeles Lakers
+279,De'Anthony Melton,Memphis Grizzlies
+280,Kyle Anderson,Memphis Grizzlies
+281,Grayson Allen,Memphis Grizzlies
+282,Bruno Caboclo,Memphis Grizzlies
+283,Andre Iguodala,Miami Heat
+284,Ivan Rabb,Memphis Grizzlies
+285,Ja Morant,Memphis Grizzlies
+286,Jaren Jackson Jr.,Memphis Grizzlies
+287,Brandon Clarke,Memphis Grizzlies
+288,Jonas Valanciunas,Memphis Grizzlies
+289,Yuta Watanabe,Memphis Grizzlies
+290,Josh Jackson,Memphis Grizzlies
+291,Tyus Jones,Memphis Grizzlies
+292,Marko Guduric,Memphis Grizzlies
+293,Dillon Brooks,Memphis Grizzlies
+294,Miles Plumlee,Memphis Grizzlies
+295,Matt Mooney,Memphis Grizzlies
+296,Solomon Hill,Memphis Grizzlies
+297,John Konchar,Memphis Grizzlies
+298,Jae Crowder,Miami Heat
+299,Meyers Leonard,Miami Heat
+300,Davon Reed,Miami Heat
+301,KZ Okpala,Miami Heat
+302,Derrick Jones Jr.,Miami Heat
+303,Goran Dragic,Miami Heat
+304,Jeremiah Martin,Miami Heat
+305,Kelly Olynyk,Miami Heat
+306,Dion Waiters,Miami Heat
+307,Mychal Mulder,Miami Heat
+308,Bam Adebayo,Miami Heat
+309,Tyler Herro,Miami Heat
+310,Daryl Macon,Miami Heat
+311,James Johnson,Miami Heat
+312,Kyle Alexander,Miami Heat
+313,Justise Winslow,Miami Heat
+314,Jimmy Butler,Miami Heat
+315,Kendrick Nunn,Miami Heat
+316,Chris Silva,Miami Heat
+317,Udonis Haslem,Miami Heat
+318,Duncan Robinson,Miami Heat
+319,Donte DiVincenzo,Milwaukee Bucks
+320,George Hill,Milwaukee Bucks
+321,D.J. Wilson,Milwaukee Bucks
+322,Eric Bledsoe,Milwaukee Bucks
+323,Ersan Ilyasova,Milwaukee Bucks
+324,Wesley Matthews,Milwaukee Bucks
+325,Brook Lopez,Milwaukee Bucks
+326,Rayjon Tucker,Milwaukee Bucks
+327,Cameron Reynolds,Milwaukee Bucks
+328,Frank Mason,Milwaukee Bucks
+329,Dragan Bender,Milwaukee Bucks
+330,Jaylen Adams,Milwaukee Bucks
+331,Khris Middleton,Milwaukee Bucks
+332,Sterling Brown,Milwaukee Bucks
+333,Pat Connaughton,Milwaukee Bucks
+334,Kyle Korver,Milwaukee Bucks
+335,Luke Maye,Milwaukee Bucks
+336,Giannis Antetokounmpo,Milwaukee Bucks
+337,Robin Lopez,Milwaukee Bucks
+338,Thanasis Antetokounmpo,Milwaukee Bucks
+339,Jeff Teague,Minnesota Timberwolves
+340,Noah Vonleh,Minnesota Timberwolves
+341,Tyrone Wallace,Minnesota Timberwolves
+342,Jaylen Nowell,Minnesota Timberwolves
+343,Gorgui Dieng,Minnesota Timberwolves
+344,Jordan McLaughlin,Minnesota Timberwolves
+345,Jordan Bell,Minnesota Timberwolves
+346,Jake Layman,Minnesota Timberwolves
+347,Naz Reid,Minnesota Timberwolves
+348,Treveon Graham,Minnesota Timberwolves
+349,Shabazz Napier,Minnesota Timberwolves
+350,Jordan Murphy,Minnesota Timberwolves
+351,Josh Okogie,Minnesota Timberwolves
+352,Andrew Wiggins,Minnesota Timberwolves
+353,Jarrett Culver,Minnesota Timberwolves
+354,Lindell Wigginton,Minnesota Timberwolves
+355,Kelan Martin,Minnesota Timberwolves
+356,Keita Bates-Diop,Minnesota Timberwolves
+357,Karl-Anthony Towns,Minnesota Timberwolves
+358,Robert Covington,Houston Rockets
+359,Nickeil Alexander-Walker,New Orleans Pelicans
+360,Zion Williamson,New Orleans Pelicans
+361,Lonzo Ball,New Orleans Pelicans
+362,Josh Hart,New Orleans Pelicans
+363,JJ Redick,New Orleans Pelicans
+364,Josh Gray,New Orleans Pelicans
+365,Jalen Adams,New Orleans Pelicans
+366,Jahlil Okafor,New Orleans Pelicans
+367,Javon Bess,New Orleans Pelicans
+368,Jaxson Hayes,New Orleans Pelicans
+369,Jrue Holiday,New Orleans Pelicans
+370,Kavell Bigby-Williams,New Orleans Pelicans
+371,Brandon Ingram,New Orleans Pelicans
+372,Frank Jackson,New Orleans Pelicans
+373,Nicolo Melli,New Orleans Pelicans
+374,Darius Miller,New Orleans Pelicans
+375,Derrick Favors,New Orleans Pelicans
+376,Kenrich Williams,New Orleans Pelicans
+377,Zylan Cheatham,New Orleans Pelicans
+378,E'Twaun Moore,New Orleans Pelicans
+379,Kadeem Allen,New York Knicks
+380,Bobby Portis,New York Knicks
+381,Wayne Ellington,New York Knicks
+382,Lamar Peters,New York Knicks
+383,Dennis Smith Jr.,New York Knicks
+384,Elfrid Payton,New York Knicks
+385,V.J. King,New York Knicks
+386,RJ Barrett,New York Knicks
+387,Frank Ntilikina,New York Knicks
+388,Marcus Morris,New York Knicks
+389,Allonzo Trier,New York Knicks
+390,Ignas Brazdeikis,New York Knicks
+391,Amir Hinton,New York Knicks
+392,Kevin Knox,New York Knicks
+393,Damyean Dotson,New York Knicks
+394,Mitchell Robinson,New York Knicks
+395,Reggie Bullock,New York Knicks
+396,Julius Randle,New York Knicks
+397,Kenny Wooten,New York Knicks
+398,Taj Gibson,New York Knicks
+399,Shai Gilgeous-Alexander,Oklahoma City Thunder
+400,Chris Paul,Oklahoma City Thunder
+401,Luguentz Dort,Oklahoma City Thunder
+402,Hamidou Diallo,Oklahoma City Thunder
+403,Darius Bazley,Oklahoma City Thunder
+404,Danilo Gallinari,Oklahoma City Thunder
+405,Nerlens Noel,Oklahoma City Thunder
+406,Abdel Nader,Oklahoma City Thunder
+407,Steven Adams,Oklahoma City Thunder
+408,Justin Patton,Oklahoma City Thunder
+409,Abdul Gaddy,Oklahoma City Thunder
+410,Myke Henry,Oklahoma City Thunder
+411,Dennis Schroder,Oklahoma City Thunder
+412,Andre Roberson,Oklahoma City Thunder
+413,Devon Hall,Oklahoma City Thunder
+414,Terrance Ferguson,Oklahoma City Thunder
+415,Eric Moreland,Oklahoma City Thunder
+416,Deonte Burton,Oklahoma City Thunder
+417,Mike Muscala,Oklahoma City Thunder
+418,DeVaughn Akoon-Purcell,Oklahoma City Thunder
+419,Aaron Gordon,Orlando Magic
+420,Jonathan Isaac,Orlando Magic
+421,Al-Farouq Aminu,Orlando Magic
+422,Chuma Okeke,Orlando Magic
+423,Josh Magette,Orlando Magic
+424,Mo Bamba,Orlando Magic
+425,Michael Carter-Williams,Orlando Magic
+426,Terrence Ross,Orlando Magic
+427,Nikola Vucevic,Orlando Magic
+428,Evan Fournier,Orlando Magic
+429,Amile Jefferson,Orlando Magic
+430,Hassani Gravett,Orlando Magic
+431,BJ Johnson,Orlando Magic
+432,D.J. Augustin,Orlando Magic
+433,Isaac Humphries,Orlando Magic
+434,Jon Davis,Orlando Magic
+435,DaQuan Jeffries,Orlando Magic
+436,Markelle Fultz,Orlando Magic
+437,Vic Law,Orlando Magic
+438,Khem Birch,Orlando Magic
+439,Wes Iwundu,Orlando Magic
+440,Melvin Frazier Jr.,Orlando Magic
+441,Josh Richardson,Philadelphia 76ers
+442,Mike Scott,Philadelphia 76ers
+443,Haywood Highsmith,Philadelphia 76ers
+444,Zhaire Smith,Philadelphia 76ers
+445,Kyle O'Quinn,Philadelphia 76ers
+446,James Ennis III,Philadelphia 76ers
+447,Tobias Harris,Philadelphia 76ers
+448,Norvel Pelle,Philadelphia 76ers
+449,Shake Milton,Philadelphia 76ers
+450,Raul Neto,Philadelphia 76ers
+451,Christ Koumadje,Philadelphia 76ers
+452,Joel Embiid,Philadelphia 76ers
+453,Matisse Thybulle,Philadelphia 76ers
+454,Trey Burke,Dallas Mavericks
+455,Ben Simmons,Philadelphia 76ers
+456,Furkan Korkmaz,Philadelphia 76ers
+457,Marial Shayok,Philadelphia 76ers
+458,Isaiah Miles,Philadelphia 76ers
+459,Al Horford,Philadelphia 76ers
+460,Jonah Bolden,Philadelphia 76ers
+461,Jalen Lecque,Phoenix Suns
+462,Devin Booker,Phoenix Suns
+463,Elie Okobo,Phoenix Suns
+464,Kelly Oubre Jr.,Phoenix Suns
+465,Jevon Carter,Phoenix Suns
+466,Frank Kaminsky,Phoenix Suns
+467,Ty Jerome,Phoenix Suns
+468,Ricky Rubio,Phoenix Suns
+469,Jared Harper,Phoenix Suns
+470,Cheick Diallo,Phoenix Suns
+471,David Kramer,Phoenix Suns
+472,Tyler Johnson,Phoenix Suns
+473,Dario Saric,Phoenix Suns
+474,Deandre Ayton,Phoenix Suns
+475,Cameron Johnson,Phoenix Suns
+476,Mikal Bridges,Phoenix Suns
+477,Norense Odiase,Phoenix Suns
+478,Tariq Owens,Phoenix Suns
+479,Aron Baynes,Phoenix Suns
+480,Damian Lillard,Portland Trail Blazers
+481,Anfernee Simons,Portland Trail Blazers
+482,Gary Trent Jr.,Portland Trail Blazers
+483,CJ McCollum,Portland Trail Blazers
+484,Moses Brown,Portland Trail Blazers
+485,Rodney Hood,Portland Trail Blazers
+486,Jaylen Hoard,Portland Trail Blazers
+487,London Perrantes,Portland Trail Blazers
+488,Nassir Little,Portland Trail Blazers
+489,Troy Caupain,Portland Trail Blazers
+490,Keljin Blevins,Portland Trail Blazers
+491,Pau Gasol,Portland Trail Blazers
+492,Skal Labissiere,Portland Trail Blazers
+493,Hassan Whiteside,Portland Trail Blazers
+494,Kent Bazemore,Portland Trail Blazers
+495,Jusuf Nurkic,Portland Trail Blazers
+496,Zach Collins,Portland Trail Blazers
+497,Anthony Tolliver,Portland Trail Blazers
+498,Mario Hezonja,Portland Trail Blazers
+499,Hollis Thompson,Sacramento Kings
+500,Trevor Ariza,Sacramento Kings
+501,Yogi Ferrell,Sacramento Kings
+502,De'Aaron Fox,Sacramento Kings
+503,Kyle Guy,Sacramento Kings
+504,Bogdan Bogdanovic,Sacramento Kings
+505,Cory Joseph,Sacramento Kings
+506,Justin James,Sacramento Kings
+507,Dewayne Dedmon,Sacramento Kings
+508,Tyler Ulis,Sacramento Kings
+509,Harry Giles III,Sacramento Kings
+510,Richaun Holmes,Sacramento Kings
+511,Buddy Hield,Sacramento Kings
+512,Wenyen Gabriel,Sacramento Kings
+513,Marvin Bagley III,Sacramento Kings
+514,Harrison Barnes,Sacramento Kings
+515,Tyler Lydon,Sacramento Kings
+516,Caleb Swanigan,Sacramento Kings
+517,Nemanja Bjelica,Sacramento Kings
+518,Lonnie Walker IV,San Antonio Spurs
+519,Keldon Johnson,San Antonio Spurs
+520,Derrick White,San Antonio Spurs
+521,Dejounte Murray,San Antonio Spurs
+522,Chimezie Metu,San Antonio Spurs
+523,Patty Mills,San Antonio Spurs
+524,DeMar DeRozan,San Antonio Spurs
+525,Bryn Forbes,San Antonio Spurs
+526,LaMarcus Aldridge,San Antonio Spurs
+527,Drew Eubanks,San Antonio Spurs
+528,Quinndary Weatherspoon,San Antonio Spurs
+529,Dedric Lawson,San Antonio Spurs
+530,Marco Belinelli,San Antonio Spurs
+531,Luka Samanic,San Antonio Spurs
+532,Rudy Gay,San Antonio Spurs
+533,Jakob Poeltl,San Antonio Spurs
+534,Daulton Hommes,San Antonio Spurs
+535,Trey Lyles,San Antonio Spurs
+536,DeMarre Carroll,San Antonio Spurs
+537,Terence Davis,Toronto Raptors
+538,Cameron Payne,Toronto Raptors
+539,OG Anunoby,Toronto Raptors
+540,Rondae Hollis-Jefferson,Toronto Raptors
+541,Stanley Johnson,Toronto Raptors
+542,Kyle Lowry,Toronto Raptors
+543,Serge Ibaka,Toronto Raptors
+544,Devin Robinson,Toronto Raptors
+545,Oshae Brissett,Toronto Raptors
+546,Malcolm Miller,Toronto Raptors
+547,Isaiah Taylor,Toronto Raptors
+548,Dewan Hernandez,Toronto Raptors
+549,Matt Thomas,Toronto Raptors
+550,Patrick McCaw,Toronto Raptors
+551,Fred VanVleet,Toronto Raptors
+552,Norman Powell,Toronto Raptors
+553,Chris Boucher,Toronto Raptors
+554,Marc Gasol,Toronto Raptors
+555,Pascal Siakam,Toronto Raptors
+556,Sagaba Konate,Toronto Raptors
+557,Kyle Collinsworth,Utah Jazz
+558,Nigel Williams-Goss,Utah Jazz
+559,Joe Ingles,Utah Jazz
+560,Justin Wright-Foreman,Utah Jazz
+561,Jarrell Brantley,Utah Jazz
+562,Emmanuel Mudiay,Utah Jazz
+563,Mike Conley,Utah Jazz
+564,Dante Exum,Utah Jazz
+565,Tony Bradley,Utah Jazz
+566,Stanton Kidd,Utah Jazz
+567,Juwan Morgan,Utah Jazz
+568,Ed Davis,Utah Jazz
+569,Jeff Green,Houston Rockets
+570,Royce O'Neale,Utah Jazz
+571,Miye Oni,Utah Jazz
+572,Rudy Gobert,Utah Jazz
+573,Georges Niang,Utah Jazz
+574,William Howard,Utah Jazz
+575,Bojan Bogdanovic,Utah Jazz
+576,Donovan Mitchell,Utah Jazz
+577,Admiral Schofield,Washington Wizards
+578,John Wall,Washington Wizards
+579,Bradley Beal,Washington Wizards
+580,Isaiah Thomas,Washington Wizards
+581,Justin Robinson,Washington Wizards
+582,Troy Brown Jr.,Washington Wizards
+583,Justin Anderson,Washington Wizards
+584,Rui Hachimura,Washington Wizards
+585,Chris Chiozza,Washington Wizards
+586,Thomas Bryant,Washington Wizards
+587,Ish Smith,Washington Wizards
+588,Phil Booth,Washington Wizards
+589,Isaac Bonga,Washington Wizards
+590,Moritz Wagner,Washington Wizards
+591,Garrison Mathews,Washington Wizards
+592,Ian Mahinmi,Washington Wizards
+593,Jemerrio Jones,Washington Wizards
+594,CJ Miles,Washington Wizards
+595,Davis Bertans,Washington Wizards
+596,Jordan McRae,Washington Wizards
